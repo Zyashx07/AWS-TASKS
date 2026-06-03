@@ -139,7 +139,14 @@ The application successfully demonstrates a cloud-native serverless architecture
 * CloudWatch provides monitoring and logging.
 * No traditional backend server is required.
 
-<img width="1920" height="1020" alt="Screenshot 2026-06-03 112020" src="https://github.com/user-attachments/assets/b3ccea79-c51b-4f47-ae15-26b490e20657" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-03 112615" src="https://github.com/user-attachments/assets/15df6d60-efc7-4ed3-b6d7-d17fc11c48e9" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-06-03 113257" src="https://github.com/user-attachments/assets/fb523ddd-965a-4642-ac3f-087405f28436" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-06-03 114540" src="https://github.com/user-attachments/assets/c2930f89-f94b-4379-8e82-4a790d348a05" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-06-03 115144" src="https://github.com/user-attachments/assets/66f3e130-bf47-4648-95a3-1191a6f6efed" />
+
 
 
 ## Author
