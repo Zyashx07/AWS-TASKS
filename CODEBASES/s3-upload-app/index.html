@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>S3 File Upload App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>AWS S3 File Upload</h1>
+
+        <input type="file" id="fileInput">
+
+        <button onclick="uploadFile()">
+            Upload File
+        </button>
+
+        <p id="message"></p>
+
+        <hr>
+
+        <h2>Uploaded Files</h2>
+
+        <div id="fileList"></div>
+
+    </div>
+
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1691.0.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
