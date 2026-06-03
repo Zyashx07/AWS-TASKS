@@ -7,15 +7,15 @@ This project is a Serverless Job Application Portal built using AWS services and
 ## Architecture
 
 User
-↓
+->
 Nginx (VPS)
-↓
+->
 Frontend (HTML, CSS, JavaScript)
-↓
+->
 Amazon API Gateway
-↓
+->
 AWS Lambda
-↓
+->
 Amazon DynamoDB
 
 ## AWS Services Used
